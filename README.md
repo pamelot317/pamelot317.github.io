@@ -10,7 +10,7 @@ Part 1 of the data cleaning can be found [here](https://nbviewer.jupyter.org/git
 Part 2 of the data cleaning can be found [here](https://nbviewer.jupyter.org/github/pamelot317/Carbon-Market/blob/master/CDM-projects.ipynb)
 
 ### Insights Into Bike Sharing in the Bay Area
-[This](https://nbviewer.jupyter.org/github/pamelot317/SF_bike_share/blob/master/sf_bike_share_project141_to_generate_HTML.ipynb) was a group project for a graduate data science course taken at UC Davis. Raw code visible [here](https://nbviewer.jupyter.org/github/pamelot317/SF_bike_share/blob/master/sf_bike_share_project141.ipynb)
+[This](https://nbviewer.jupyter.org/github/pamelot317/SF_bike_share/blob/master/sf_bike_share_project141_to_generate_HTML.ipynb) was a group project for a graduate data science course taken at UC Davis. We obtained bike share usage data, including stations used, trip duration, and member status for 3 years: 2014, 2015, and 2016. We compared this data to weather data, neighborhood data (crime, income), and proximity of bike share stations to Caltrain stations. Our goal was to gain insights into the new bike share program in order to inform future expansion efforts. 
 
 
 
