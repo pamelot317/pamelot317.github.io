@@ -31,7 +31,9 @@ See homework assignment with both conceptual and data analysis problems [here](h
 See homework assignment with both conceptual and data analysis problems [here](https://nbviewer.jupyter.org/github/pamelot317/Machine_Learning/blob/master/HW5.ipynb).
 
 #### Project: Stock Market prices and the news
-This project involved scraping websites for data and gathering multiple data sources. We then chose our method of analysis and assessed its effectiveness. See the project [here](https://nbviewer.jupyter.org/github/pamelot317/Machine_Learning/blob/master/Project.ipynb) for more detail. 
+This project involved scraping websites for data and gathering multiple data sources. We then chose our method of analysis and assessed its effectiveness. See the project [here](https://nbviewer.jupyter.org/github/pamelot317/Machine_Learning/blob/master/Project.ipynb) for more detail. Supporting notebooks are [here](https://nbviewer.jupyter.org/github/pamelot317/Machine_Learning/blob/master/sentiment_scoring.ipynb) and [here](https://nbviewer.jupyter.org/github/pamelot317/Machine_Learning/blob/master/webscraping.ipynb).
+
+
 
 
 
