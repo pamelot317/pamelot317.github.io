@@ -62,7 +62,7 @@ These assignments showcase skills such as image processing, web scraping, data c
 #### Logos
 Water Climate Trust
 
-<img src="images/WCT_Logot_final.jpg?raw=true"/>
+<img src="images/WCT_Logo_Final.jpg?raw=true"/>
 
 Green Donkey Works
 
