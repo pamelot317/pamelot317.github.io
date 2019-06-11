@@ -51,9 +51,12 @@ These assignments showcase skills such as image processing, web scraping, data c
 
 ## Other tech projects not related to data
 #### Websites
-[Green Donkey Works](htps://www.greendonkeyworks.com/)
+[Green Donkey Works](https://www.greendonkeyworks.com/)
+
 [KN Bookkeeping](https://www.knbookkeeping.com/)
+
 [A Room of Her Own](https://www.roomofherown.org/)
+
 [Sage Horse Ranch](https://www.sagehorseranch.org/)
 
 #### Logos
