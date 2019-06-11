@@ -70,7 +70,7 @@ Mathematical Statistics (2courses)
 
 Applied Statistics (2 courses)
 
-ProbabilityTheory 
+Probability Theory 
 
 Machine Learning
 
