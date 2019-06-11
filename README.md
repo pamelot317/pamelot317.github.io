@@ -1,6 +1,6 @@
 ## Pamela Patterson's Data Science Portfolio
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This portfolio is a compilation of notebooks and projects I created for data analysis or for exploration of machine &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;learning algorithms. 
+This portfolio is a compilation of notebooks and projects I created for data analysis or for exploration of machine learning algorithms. 
 
 ### Carbon Market trading - data cleaning - paid project
 This project was contracted by Water Climate Trust. They were preparing for work at the 2018 United Nations Climate Change Conference (COP24) in Poland. The objective was to use the Clean Development Mechanism (CDM) project data available through the UN to uncover patterns and issues with the carbon market trading stystem. I did initial research and gathered the raw data, then I cleaned the data to make it easier to use. The next stage of the project, commencing in late Summer 2019, will be to generate graphics and perform a deeper analysis. 
@@ -34,7 +34,28 @@ See homework assignment with both conceptual and data analysis problems [here](h
 This project involved scraping websites for data and gathering multiple data sources. We then chose our method of analysis and assessed its effectiveness. See the project [here](https://nbviewer.jupyter.org/github/pamelot317/Machine_Learning/blob/master/Project.ipynb) for more detail. Supporting notebooks are [here](https://nbviewer.jupyter.org/github/pamelot317/Machine_Learning/blob/master/sentiment_scoring.ipynb) and [here](https://nbviewer.jupyter.org/github/pamelot317/Machine_Learning/blob/master/webscraping.ipynb).
 
 
+### Collection of data science/analysis problems and projects from grad school
 
+#### Assignments from data science course
+These assignments showcase skills such as image processing, web scraping, data cleaning, working with geospatial data, and data analysis. 
+[Assignment 1](https://nbviewer.jupyter.org/github/pamelot317/school-data-work/blob/master/assignment1.ipynb), [Assignment 2](https://nbviewer.jupyter.org/github/pamelot317/school-data-work/blob/master/assignment2.ipynb), [Assignment 3](https://nbviewer.jupyter.org/github/pamelot317/school-data-work/blob/master/assignment3.ipynb), [Assignment 4](https://nbviewer.jupyter.org/github/pamelot317/school-data-work/blob/master/assignment4.ipynb), [Assignment 5](https://nbviewer.jupyter.org/github/pamelot317/school-data-work/blob/master/assignment5.ipynb), [Assignment 6](https://nbviewer.jupyter.org/github/pamelot317/school-data-work/blob/master/assignment6.ipynb)
+
+#### Data analysis projects using R
+[Fitting a Model for Abalone Age](https://github.com/pamelot317/school-data-work/blob/master/STA206-Report.pdf)
+
+[Logistic Regression Model to Predict Probability of House Sparrow Survival](https://github.com/pamelot317/school-data-work/blob/master/207ProjectPattersonAkimbekov.pdf)
+
+### Other tech projects not related to data
+#### Websites
+[Green Donkey Works](htps://www.greendonkeyworks.com/)
+[KN Bookkeeping](https://www.knbookkeeping.com/)
+[A Room of Her Own](https://www.roomofherown.org/)
+[Sage Horse Ranch](https://www.sagehorseranch.org/)
+
+#### Logos
+Water Climate Trust
+
+Green Donkey Works
 
 
 
