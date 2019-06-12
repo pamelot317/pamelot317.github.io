@@ -60,11 +60,9 @@ ____
 [Sage Horse Ranch](https://www.sagehorseranch.org/)
 
 #### Logos
-Water Climate Trust
 
 <img src="images/WCT_Logo_Final.jpg?raw=true"/>
 
-Green Donkey Works
 
 <img src="images/Green_Donkey_Works_Logo_3.jpg?raw=true"/>
 
