@@ -16,7 +16,7 @@ ____
 
 ____
 ## Machine Learning Problems and Projects
-These are problems, project, and assignments I worked on while in grad school. 
+These are problems, projects, and assignments I worked on while in grad school. 
 
 #### K-nearest neighbors, linear regression, and risk
 See homework assignment with both conceptual and data analysis problems [here](https://nbviewer.jupyter.org/github/pamelot317/Machine_Learning/blob/master/HW1.ipynb). 
@@ -71,7 +71,7 @@ Green Donkey Works
 ____
 ## Graduate Coursework
 #### UC Davis
-Mathematical Statistics (2courses)
+Mathematical Statistics (2 courses)
 
 Applied Statistics (2 courses)
 
