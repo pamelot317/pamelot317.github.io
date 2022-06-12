@@ -19,7 +19,7 @@ ____
 
 ____
 ## Machine Learning Problems and Projects
-These are problems, projects, and assignments I worked on while in grad school. 
+These are problems, projects, and assignments I worked on while taking graduate level coursework. 
 
 #### K-nearest neighbors, linear regression, and risk
 See homework assignment with both conceptual and data analysis problems [here](https://nbviewer.jupyter.org/github/pamelot317/Machine_Learning/blob/master/HW1.ipynb). 
@@ -40,7 +40,7 @@ See homework assignment with both conceptual and data analysis problems [here](h
 This project involved scraping websites for data and gathering multiple data sources. We then chose our method of analysis and assessed its effectiveness. See the project [here](https://nbviewer.jupyter.org/github/pamelot317/Machine_Learning/blob/master/Project.ipynb) for more detail. Supporting notebooks are [here](https://nbviewer.jupyter.org/github/pamelot317/Machine_Learning/blob/master/sentiment_scoring.ipynb) and [here](https://nbviewer.jupyter.org/github/pamelot317/Machine_Learning/blob/master/webscraping.ipynb).
 
 ____
-## Collection of data science/analysis problems and projects from grad school
+## Collection of data science/analysis problems and projects from my graduate level coursework.
 
 #### Assignments from data science course
 These assignments showcase skills such as image processing, web scraping, data cleaning, working with geospatial data, and data analysis. 
@@ -52,25 +52,7 @@ These assignments showcase skills such as image processing, web scraping, data c
 [Logistic Regression Model to Predict Probability of House Sparrow Survival](https://github.com/pamelot317/school-data-work/blob/master/207ProjectPattersonAkimbekov.pdf)
 
 ____
-## Other tech projects not related to data
-#### Websites
-[Green Donkey Works](https://www.greendonkeyworks.com/)
-
-[KN Bookkeeping](https://www.knbookkeeping.com/)
-
-[A Room of Her Own](https://www.roomofherown.org/)
-
-[Sage Horse Ranch](https://www.sagehorseranch.org/)
-
-#### Logos
-
-<img src="images/WCT_Logo_Final.jpg?raw=true"/>
-
-
-<img src="images/Green_Donkey_Works_Logo_3.jpg?raw=true"/>
-
-____
-## Other Coursework
+## Other Graduate Level Coursework
 #### UC Davis
 Mathematical Statistics (2 courses)
 
