@@ -3,8 +3,8 @@
 This portfolio is a compilation of notebooks and projects I created for data analysis or for exploration of machine learning algorithms.
 
 ____
-## Carbon Market trading - data cleaning and analysis - paid project
-This project was contracted by Water Climate Trust. They were preparing for work at the 2018 and 2019 United Nations Climate Change Conferences (COP24 and COP25). The objective was to use the Clean Development Mechanism (CDM) project data available through the UN to uncover patterns and issues with the carbon market trading stystem. I did initial research and gathered the raw data, then I cleaned the data to make it easier to use. I then analyzed it and created data visualizations. 
+## Carbon Market trading - data cleaning and analysis - volunteer work
+This project was donated to Water Climate Trust. They were preparing for work at the 2018 and 2019 United Nations Climate Change Conferences (COP24 and COP25). The objective was to use the Clean Development Mechanism (CDM) project data available through the UN to uncover patterns and issues with the carbon market trading stystem. I did initial research and gathered the raw data, then I cleaned the data to make it easier to use. I then analyzed it and created data visualizations. 
 
 Part 1 of the data cleaning can be found [here](https://nbviewer.jupyter.org/github/pamelot317/Carbon-Market/blob/master/CDM-consolidated.ipynb)
 
@@ -67,11 +67,6 @@ Data Science
 Computational Statistics
 
 Topological Data Analysis
-
-#### Georgia Tech
-Computability, Complexity,and Algorithms
-
-Machine Learning
 
 
 
